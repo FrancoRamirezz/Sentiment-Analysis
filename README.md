@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis of Twitter reaction
+Sentiment Analysis on Emails and how this can be used to detect phising emails
