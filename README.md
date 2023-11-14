@@ -1,6 +1,6 @@
 # Sentiment-Analysis Machine Learning
-On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding how individuals react to the news is very important in developing better insights into the individual mind
-The dataset incorporates info from X(formerly Twitter)the reactions positive, negative, or neutral
+On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding sentiment analysis allows machine learning to predict what emotion was displayed in the text. The emotions consisted ofpositive, negative, and neutral    
+The dataset incorporates info from X(formerly Twitter)
 
 
 <img width="761" alt="Screenshot 2023-11-13 at 6 38 40 PM" src="https://github.com/FrancoRamirezz/Sentiment-Analysis/assets/96508706/5972684d-086c-4ceb-be2c-610a6ee3ffc1">
