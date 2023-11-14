@@ -2,9 +2,6 @@
 On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding how individuals react to the news is very important in developing better insights into the individual mind
 The dataset incorporates info from X(formerly Twitter) on the reaction to it.
 
-
-
-
 <img width="753" alt="Screenshot 2023-11-13 at 5 43 16 PM" src="https://github.com/FrancoRamirezz/Sentiment-Analysis/assets/96508706/8fbdb3ea-62a8-4dda-a84e-702a4c6fbfb3">
 
 
