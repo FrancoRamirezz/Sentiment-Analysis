@@ -5,16 +5,18 @@ The dataset incorporates info from X(formerly Twitter)the reactions positive, ne
 
 
 
+<img width="761" alt="Screenshot 2023-11-13 at 6 38 40 PM" src="https://github.com/FrancoRamirezz/Sentiment-Analysis/assets/96508706/5972684d-086c-4ceb-be2c-610a6ee3ffc1">
 
 
 
-<img width="755" alt="Screenshot 2023-11-13 at 6 33 35 PM" src="https://github.com/FrancoRamirezz/Sentiment-Analysis/assets/96508706/8dd4d966-d706-464b-90a1-f9f0cce5823f">
+
 
 
 ```bash
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt![Uploading Screenshot 2023-11-13 at 6.38.40 PM.png…]()
+
 import seaborn as sns
 import nltk 
 from nltk.corpus import stopwords 
