@@ -3,9 +3,9 @@ On March 10 the famous Silicon Bank crashed causing much reaction. Some were pol
 The dataset incorporates info from X(formerly Twitter)the reactions positive, negative, or neutral
 
 
-
-
 <img width="761" alt="Screenshot 2023-11-13 at 6 38 40 PM" src="https://github.com/FrancoRamirezz/Sentiment-Analysis/assets/96508706/5972684d-086c-4ceb-be2c-610a6ee3ffc1">
+
+
 
 
 
