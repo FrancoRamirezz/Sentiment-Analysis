@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding how individuals react to the news is very important in developing better insights into the individual mind
-The dataset incorporates info from X(formerly Twitter) on the reaction to it. It is either positive, negative, or neutral
+The dataset incorporates info from X(formerly Twitter)the reactions positive, negative, or neutral
 
 
 
