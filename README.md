@@ -15,7 +15,7 @@ The dataset incorporates info from X(formerly Twitter)the reactions positive, ne
 ```bash
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt![Uploading Screenshot 2023-11-13 at 6.38.40 PM.png…]()
+import matplotlib.pyplot as plt
 
 import seaborn as sns
 import nltk 
