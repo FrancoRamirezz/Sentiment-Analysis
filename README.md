@@ -1,5 +1,5 @@
 # Sentiment-Analysis Machine Learning
-On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding sentiment analysis allows machine learning to predict what emotion was displayed in the text. The emotions consisted of positive, negative, and neutral    
+On March 10 the famous Silicon Bank crashed causing much reaction. Some were polarizing, and some were not so much. Understanding sentiment analysis allows machine learning to predict what emotion was displayed in the text. The emotions consisted of positive, negative, and neutral.    
 The dataset incorporates info from X(formerly Twitter)
 
 
